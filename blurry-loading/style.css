@@ -15,7 +15,9 @@ body {
 }
 
 .bg {
-  background: url('https://images.pexels.com/photos/5974383/pexels-photo-5974383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')
+  /* background: url('https://images.pexels.com/photos/5974383/pexels-photo-5974383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')
+    no-repeat center center/cover; */
+  background: url('https://images.pexels.com/photos/3811824/pexels-photo-3811824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')
     no-repeat center center/cover;
   position: absolute;
   top: -30px;
@@ -27,6 +29,6 @@ body {
 }
 
 .loading-text {
-  font-size: 55px;
+  font-size: 60px;
   color: #fff;
 }
