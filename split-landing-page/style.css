@@ -17,3 +17,16 @@ body {
   height: 100%;
   background: #333;
 }
+
+.split {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  overflow: hidden;
+}
+
+.split.left {
+  left: 0;
+  background: url('https://images.unsplash.com/photo-1568559598349-dbf322d50a48?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80');
+  
+}
