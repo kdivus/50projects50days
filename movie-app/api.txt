@@ -1,0 +1,15 @@
+https://www.themoviedb.org/talk/603392ec1d3143003c0c25a6?page=1#603392ec1d3143003c0c25a9
+https://www.themoviedb.org/settings/api
+https://www.themoviedb.org/documentation/api/discover
+
+API Key: fb5cce884970cd2cc41bdfc33420d9de
+
+An example request looks like:
+
+https://api.themoviedb.org/3/movie/550?api_key=fb5cce884970cd2cc41bdfc33420d9de
+
+Useful Links
+
+Documentation: https://www.themoviedb.org/documentation/api
+Support forum: https://www.themoviedb.org/talk/category/5047958519c29526b50017d6
+Wrappers & libraries: https://www.themoviedb.org/documentation/api/wrappers-libraries
