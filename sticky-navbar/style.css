@@ -57,6 +57,16 @@ body {
   color: #000;
 }
 
+.nav.active .container {
+  padding: 10px 0;
+}
+
+.nav a.current,
+.nav a:hover {
+  color: #37768a;
+  font-weight: bold;
+}
+
 .hero {
   background-image: url('https://images.pexels.com/photos/1903702/pexels-photo-1903702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-repeat: no-repeat;
